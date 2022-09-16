@@ -1,0 +1,9 @@
+# VS Code Settings
+.vscode/*
+
+# MacOS attribute file
+.DS_Store
+
+# Ignore pycache files
+txt_input/__pycache__/*
+
